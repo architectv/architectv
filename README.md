@@ -5,7 +5,7 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=architectv&show_icons=true&layout=compact" alt="architectv" />
     </div>
     <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architectv&layout=compact" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architectv&&langs_count=8&layout=compact" />
     </div>
 </div>
 
