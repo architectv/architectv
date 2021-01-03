@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
     <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=architectv&show_icons=true&hide_title=true&layout=compact" alt="architectv" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=architectv&show_icons=true&layout=compact" alt="architectv" />
     </div>
     <div>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architectv&layout=compact" />
