@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <a href="https://github.com/architectv">
-    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=architectv&show_icons=true&count_private=true" alt="Architectv's 's github stats" />
-    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architectv&langs_count=6&count_private=true&layout=compact" alt="Architectv's github top languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=architectv&show_icons=true&count_private=true" alt="Architectv's 's github stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architectv&langs_count=6&count_private=true&layout=compact" alt="Architectv's github top languages"/>
 </a>
 
 <!--
