@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<div style="display: flex">
+<a href="https://github.com/architectv">
     <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=architectv&show_icons=true&count_private=true" alt="Architectv's 's github stats" />
     <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architectv&langs_count=6&count_private=true&layout=compact" alt="Architectv's github top languages"/>
-</div>
+</a>
 
 <!--
 **architectv/architectv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
