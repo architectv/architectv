@@ -2,10 +2,10 @@
 
 <div style="display: flex">
     <div>
-        <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=architectv&show_icons=true&layout=compact" alt="architectv" />
+        <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=architectv&show_icons=true&layout=compact" alt="architectv" />
     </div>
     <div>
-        <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architectv&&langs_count=8&layout=compact" />
+        <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architectv&&langs_count=6&layout=compact" />
     </div>
 </div>
 
